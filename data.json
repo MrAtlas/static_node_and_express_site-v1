@@ -1,0 +1,65 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "This will display a random quote from a serious of already written quotes",
+        "technologies": ["Html", "CSS", "Javascirpt"],
+        "live_link": "https://mratlas.github.io/a_random_quote_generator-v1/",
+        "github_link": "https://github.com/MrAtlas/a_random_quote_generator-v1",
+        "image_urls": [
+          "images/random-quote-550.jpg",
+          "images/random-quote-1200.jpg"
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "Data Pagination and Filtering",
+        "description": "Given data has been sorted and filtered with javascript",
+        "technologies": ["Html", "CSS", "Javascirpt"],
+        "live_link": "https://mratlas.github.io/data-pagination-and-filtering-v1/",
+        "github_link": "https://github.com/MrAtlas/data-pagination-and-filtering-v1",
+        "image_urls": [
+            "images/data-pagination-550.jpg",
+            "images/data-pagination-1200.jpg"
+          ]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "Interactive Form data with data filter javascript",
+        "technologies": ["Html", "CSS", "Javascirpt"],
+        "live_link": "https://mratlas.github.io/interactive-form-v3/",
+        "github_link": "https://github.com/MrAtlas/interactive-form-v3",
+        "image_urls": [
+            "images/form-550.jpg",
+            "images/form-1200.jpg"
+          ]
+      },
+      {
+        "id": 3,
+        "project_name": "Phrase Hunter Game",
+        "description": "A set of choosen phrases and a game to show the letters, sort of like hangman",
+        "technologies": ["Html", "CSS", "Javascirpt"],
+        "live_link": "https://mratlas.github.io/oop_game-v2/",
+        "github_link": "https://github.com/MrAtlas/oop_game-v2",
+        "image_urls": [
+            "images/game-550.jpg",
+            "images/game-1200.jpg"
+          ]
+      },
+      {
+        "id": 4,
+        "project_name": "Public Api",
+        "description": "Pulled data from a public API random user generator using fetch",
+        "technologies": ["Html", "CSS", "Javascirpt"],
+        "live_link": "https://mratlas.github.io/public_api_request-v1/",
+        "github_link": "https://github.com/MrAtlas/public_api_request-v1",
+        "image_urls": [
+            "images/public-api-550.jpg",
+            "images/public-api-1200.jpg"
+          ]
+      }
+    ]
+  }
+  
